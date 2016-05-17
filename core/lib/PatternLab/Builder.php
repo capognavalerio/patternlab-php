@@ -953,7 +953,7 @@ class Builder {
 					$arrayReset = false;
 				}
 				
-			} elseif (isset($patternTypeValues["patternItems"])) {
+			} else {
 				
 				foreach ($patternTypeValues["patternItems"] as $patternSubtypeKey => $patternSubtypeItem) {
 					// set the pattern state
