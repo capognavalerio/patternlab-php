@@ -7,7 +7,8 @@
 - Launch `grunt init`
 - Launch `grunt` to enable watch task
 
-If you want to enable autoreload task open a new console window and launch ```php core/builder.php -wr
+If you want to enable autoreload task open a new console window and launch
+`php core/builder.php -wr`
 
 ## About Pattern Lab
 - [Pattern Lab Website](http://patternlab.io/)
