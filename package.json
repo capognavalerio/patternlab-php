@@ -1,0 +1,19 @@
+{
+  "name": "patternlab-php",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capognavalerio/patternlab-php.git"
+  },
+  "author": "Valerio Capogna",
+  "license": "Private",
+  "bugs": {
+    "url": "https://github.com/capognavalerio/patternlab-php/issues"
+  },
+  "homepage": "https://github.com/capognavalerio/patternlab-php#readme"
+}
