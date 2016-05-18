@@ -1,7 +1,7 @@
 ## How to use
 - Download master branch
 - Open project using command line console
-- Launch the command `php core/builder.php -g
+- Launch the command `php core/builder.php -g`
 - Launch `bower install`
 - Launch `npm update --save`
 - Launch `grunt init`
