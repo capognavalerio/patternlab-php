@@ -6,3 +6,4 @@ latest-change.txt
 *-ck.js
 *.sass-cache/
 *.sublime-*
+node_modules
