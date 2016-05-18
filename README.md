@@ -1,10 +1,21 @@
+## How to use
+- Download master branch
+- Open project using command line console
+- Launch the command `php core/builder.php -g
+- Launch `bower install`
+- Launch `npm update --save`
+- Launch `grunt init`
+- Launch `grunt` to enable watch task
+
+If you want to enable autoreload task open a new console window and launch ```php core/builder.php -wr
+
 ## About Pattern Lab
 - [Pattern Lab Website](http://patternlab.io/)
 - [About Pattern Lab](http://patternlab.io/about.html)
 - [Documentation](http://patternlab.io/docs/index.html)
 - [Demo](http://demo.patternlab.io/)
 
-The PHP version of Pattern Lab is, at its core, a static site generator. It combines platform-agnostic assets, like the [Mustache](http://mustache.github.io/)-based patterns and the JavaScript-based viewer, with a PHP-based "builder" that transforms and dynamically builds the Pattern Lab site. By making it a static site generator, Pattern Lab strongly separates patterns, data, and presentation from build logic. 
+The PHP version of Pattern Lab is, at its core, a static site generator. It combines platform-agnostic assets, like the [Mustache](http://mustache.github.io/)-based patterns and the JavaScript-based viewer, with a PHP-based "builder" that transforms and dynamically builds the Pattern Lab site. By making it a static site generator, Pattern Lab strongly separates patterns, data, and presentation from build logic.
 
 ## Demo
 
