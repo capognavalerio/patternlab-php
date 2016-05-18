@@ -17,7 +17,17 @@
   },
   "homepage": "https://github.com/capognavalerio/patternlab-php#readme",
   "dependencies": {
+    "grunt": "*",
+    "grunt-autoprefixer": "*",
+    "grunt-bower-concat": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-uglify": "*",
     "grunt-contrib-watch": "*",
-    "grunt-shell": "*"
+    "grunt-shell": "*",
+    "less-plugin-autoprefix": "*",
+    "less-plugin-clean-css": "*"
   }
 }
