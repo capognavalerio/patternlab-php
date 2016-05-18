@@ -1,0 +1,23 @@
+{
+  "name": "patternlab-php",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Valerio Capogna"
+  ],
+  "license": "Private",
+  "homepage": "https://github.com/capognavalerio/patternlab-php",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "fastclick": "*",
+    "outdated-browser": "*",
+    "device.js": "devicejs#*"
+  }
+}
