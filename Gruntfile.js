@@ -9,8 +9,8 @@ module.exports = function(grunt) {
     bower_concat: {
       all: {
         dest: {
-          'js': 'source/js/vendors.js',
-          'css': 'source/css/vendors.css'
+          'js': '.tmp/js/vendors.js',
+          'css': '.tmp/css/vendors.css'
         },
         options: { separator : ';' },
         exclude: [],
@@ -21,14 +21,14 @@ module.exports = function(grunt) {
     cssmin: {
       target: {
         files: {
-          'source/css/vendors.min.css': 'source/css/vendors.css'
+          'source/css/vendors.min.css': '.tmp/css/vendors.css'
         }
       }
     },
     uglify: {
       vendors: {
         files: {
-          'source/js/vendors.min.js': 'source/js/vendors.js'
+          'source/js/vendors.min.js': '.tmp/js/vendors.js'
         }
       },
       main: {

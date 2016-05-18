@@ -8,3 +8,4 @@ latest-change.txt
 *.sublime-*
 node_modules
 bower_components
+.tmp
